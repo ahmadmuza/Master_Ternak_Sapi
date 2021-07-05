@@ -1,0 +1,31 @@
+E:\okok\vb.net uas\vb.net uas\bin\Debug\vb.net uas.exe.config
+E:\okok\vb.net uas\vb.net uas\bin\Debug\vb.net uas.exe
+E:\okok\vb.net uas\vb.net uas\bin\Debug\vb.net uas.pdb
+E:\okok\vb.net uas\vb.net uas\bin\Debug\vb.net uas.xml
+E:\okok\vb.net uas\vb.net uas\obj\Debug\vb.net uas.vbproj.AssemblyReference.cache
+E:\okok\vb.net uas\vb.net uas\obj\Debug\vb.net_uas.Login.resources
+E:\okok\vb.net uas\vb.net uas\obj\Debug\vb.net_uas.Resources.resources
+E:\okok\vb.net uas\vb.net uas\obj\Debug\vb.net uas.vbproj.GenerateResource.cache
+E:\okok\vb.net uas\vb.net uas\obj\Debug\vb.net uas.vbproj.CoreCompileInputs.cache
+E:\okok\vb.net uas\vb.net uas\obj\Debug\vb.net uas.exe
+E:\okok\vb.net uas\vb.net uas\obj\Debug\vb.net uas.xml
+E:\okok\vb.net uas\vb.net uas\obj\Debug\vb.net uas.pdb
+E:\okok\vb.net uas\vb.net uas\obj\Debug\vb.net_uas.Menu.resources
+E:\okok\vb.net uas\vb.net uas\bin\Debug\MySql.Data.dll
+E:\okok\vb.net uas\vb.net uas\bin\Debug\Google.Protobuf.dll
+E:\okok\vb.net uas\vb.net uas\bin\Debug\Zstandard.Net.dll
+E:\okok\vb.net uas\vb.net uas\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\okok\vb.net uas\vb.net uas\bin\Debug\BouncyCastle.Crypto.dll
+E:\okok\vb.net uas\vb.net uas\bin\Debug\Ubiety.Dns.Core.dll
+E:\okok\vb.net uas\vb.net uas\bin\Debug\System.Memory.dll
+E:\okok\vb.net uas\vb.net uas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\okok\vb.net uas\vb.net uas\bin\Debug\System.Buffers.dll
+E:\okok\vb.net uas\vb.net uas\bin\Debug\K4os.Compression.LZ4.dll
+E:\okok\vb.net uas\vb.net uas\bin\Debug\K4os.Hash.xxHash.dll
+E:\okok\vb.net uas\vb.net uas\bin\Debug\System.Numerics.Vectors.dll
+E:\okok\vb.net uas\vb.net uas\bin\Debug\MySql.Data.xml
+E:\okok\vb.net uas\vb.net uas\obj\Debug\vb.net uas.vbproj.CopyComplete
+E:\okok\vb.net uas\vb.net uas\obj\Debug\vb.net_uas.pemilik.resources
+E:\okok\vb.net uas\vb.net uas\obj\Debug\vb.net_uas.sapi.resources
+E:\okok\vb.net uas\vb.net uas\obj\Debug\vb.net_uas.transaksi.resources
+E:\okok\vb.net uas\vb.net uas\obj\Debug\vb.net_uas.laporan.resources
