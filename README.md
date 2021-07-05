@@ -7,7 +7,7 @@ Anggota Kelompok :
   4. Teguh Wahyu Santoso
  
  Aplikasi ini merupakan aplikasi yang dibuat untuk membantu kelompok ternak sapi
- untuk memperkirakan penghasilan atau laba yang didapat berdasarekan lama berterkan.
+ untuk memperkirakan penghasilan atau laba yang didapat berdasarkan lama berternak.
  Aplikasi ini bisa menyimpan data pemilik sapi, jenis sapi,bisa digunakan untuk menghitung
  perkiraan laba bersih dan juga bisa membuat laporan  perbulan maupun perminggu.
  link vidio demo aplikasi Master_Ternak_Sapi
